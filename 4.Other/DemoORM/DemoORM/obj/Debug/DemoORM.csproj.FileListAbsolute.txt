@@ -1,0 +1,30 @@
+D:\Win-dev\DemoORM\DemoORM\bin\Debug\DemoORM.exe.config
+D:\Win-dev\DemoORM\DemoORM\bin\Debug\DemoORM.exe
+D:\Win-dev\DemoORM\DemoORM\bin\Debug\DemoORM.pdb
+D:\Win-dev\DemoORM\DemoORM\obj\Debug\DemoORM.csprojResolveAssemblyReference.cache
+D:\Win-dev\DemoORM\DemoORM\obj\Debug\DemoORM.Form1.resources
+D:\Win-dev\DemoORM\DemoORM\obj\Debug\DemoORM.Properties.Resources.resources
+D:\Win-dev\DemoORM\DemoORM\obj\Debug\DemoORM.csproj.GenerateResource.Cache
+D:\Win-dev\DemoORM\DemoORM\obj\Debug\DemoORM.exe
+D:\Win-dev\DemoORM\DemoORM\obj\Debug\DemoORM.pdb
+D:\Win-dev\DemoORM\DemoORM\bin\Debug\ORMFramework.dll
+D:\DAM Framework\4.Other\DemoORM\DemoORM\bin\Debug\DemoORM.exe.config
+D:\DAM Framework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.exe
+D:\DAM Framework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.pdb
+D:\DAM Framework\4.Other\DemoORM\DemoORM\bin\Debug\DemoORM.exe
+D:\DAM Framework\4.Other\DemoORM\DemoORM\bin\Debug\DemoORM.pdb
+D:\DAM Framework\4.Other\DemoORM\DemoORM\bin\Debug\ORMFramework.dll
+D:\DAM Framework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.csprojResolveAssemblyReference.cache
+D:\DAM Framework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.Form1.resources
+D:\DAM Framework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.Properties.Resources.resources
+D:\DAM Framework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.csproj.GenerateResource.Cache
+D:\DAMFramework\4.Other\DemoORM\DemoORM\bin\Debug\DemoORM.exe.config
+D:\DAMFramework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.exe
+D:\DAMFramework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.pdb
+D:\DAMFramework\4.Other\DemoORM\DemoORM\bin\Debug\DemoORM.exe
+D:\DAMFramework\4.Other\DemoORM\DemoORM\bin\Debug\DemoORM.pdb
+D:\DAMFramework\4.Other\DemoORM\DemoORM\bin\Debug\ORMFramework.dll
+D:\DAMFramework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.csprojResolveAssemblyReference.cache
+D:\DAMFramework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.Form1.resources
+D:\DAMFramework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.Properties.Resources.resources
+D:\DAMFramework\4.Other\DemoORM\DemoORM\obj\Debug\DemoORM.csproj.GenerateResource.Cache

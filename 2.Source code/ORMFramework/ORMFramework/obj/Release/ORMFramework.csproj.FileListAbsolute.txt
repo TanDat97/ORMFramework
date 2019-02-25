@@ -1,0 +1,14 @@
+D:\Win-dev\ORMFramework\ORMFramework\bin\Release\ORMFramework.dll
+D:\Win-dev\ORMFramework\ORMFramework\bin\Release\ORMFramework.pdb
+D:\Win-dev\ORMFramework\ORMFramework\obj\Release\ORMFramework.dll
+D:\Win-dev\ORMFramework\ORMFramework\obj\Release\ORMFramework.pdb
+D:\DAM Framework\2.Source code\ORMFramework\ORMFramework\obj\Release\ORMFramework.csprojResolveAssemblyReference.cache
+D:\DAM Framework\2.Source code\ORMFramework\ORMFramework\obj\Release\ORMFramework.dll
+D:\DAM Framework\2.Source code\ORMFramework\ORMFramework\obj\Release\ORMFramework.pdb
+D:\DAM Framework\2.Source code\ORMFramework\ORMFramework\bin\Release\ORMFramework.dll
+D:\DAM Framework\2.Source code\ORMFramework\ORMFramework\bin\Release\ORMFramework.pdb
+D:\DAMFramework\2.Source code\ORMFramework\ORMFramework\bin\Release\ORMFramework.dll
+D:\DAMFramework\2.Source code\ORMFramework\ORMFramework\bin\Release\ORMFramework.pdb
+D:\DAMFramework\2.Source code\ORMFramework\ORMFramework\obj\Release\ORMFramework.csprojResolveAssemblyReference.cache
+D:\DAMFramework\2.Source code\ORMFramework\ORMFramework\obj\Release\ORMFramework.dll
+D:\DAMFramework\2.Source code\ORMFramework\ORMFramework\obj\Release\ORMFramework.pdb

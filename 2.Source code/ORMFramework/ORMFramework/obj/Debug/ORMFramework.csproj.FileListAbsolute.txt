@@ -1,0 +1,5 @@
+D:\Win-dev\ORMFramework\ORMFramework\obj\Debug\ORMFramework.csprojResolveAssemblyReference.cache
+D:\Win-dev\ORMFramework\ORMFramework\bin\Debug\ORMFramework.dll
+D:\Win-dev\ORMFramework\ORMFramework\bin\Debug\ORMFramework.pdb
+D:\Win-dev\ORMFramework\ORMFramework\obj\Debug\ORMFramework.dll
+D:\Win-dev\ORMFramework\ORMFramework\obj\Debug\ORMFramework.pdb
